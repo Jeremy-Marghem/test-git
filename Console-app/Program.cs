@@ -7,7 +7,7 @@
             Console.WriteLine("Hello, World!");
 
             //add personal list
-
+            //add customer list
             Console.ReadLine();
         }
     }
